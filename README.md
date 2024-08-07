@@ -12,12 +12,12 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 ## Languages 💻
 <div>
-  <img src="https://tech-icons.dev/icons/python.svg" alt="Python" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/cplusplus.svg" alt="C++" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/c.svg" alt="C" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/html5.svg" alt="HTML" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/css3.svg" alt="CSS" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/javascript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" alt="C++" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="50" height="50" />
 </div>
 
 ## Frameworks 🧠
