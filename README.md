@@ -6,9 +6,8 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 | Project Name        | Status       |
 |---------------------|--------------|
-| [Project A](https://github.com/username/project-a) | In Progress  |
-| [Project B](https://github.com/username/project-b) | Completed    |
-| [Project C](https://github.com/username/project-c) | Not Started  |
+| [Weather App Project (Open Weather API)]([https://github.com/username/project-a](https://github.com/tranbren/Weather-Website/blob/main/weather.js)) | Completed ✅ |
+| [Music Tags and Lyrics Website](https://github.com/username/project-b) | Completed ✅ |
 
 ## Languages 💻
 <div>
