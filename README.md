@@ -6,7 +6,7 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 | Project Name        | Status       |
 |---------------------|--------------|
-| [Weather App Project (Open Weather API)]([https://github.com/username/project-a](https://github.com/tranbren/Weather-Website/blob/main/weather.js)) | Completed ✅ |
+| [Weather App Project (Open Weather API)](https://github.com/tranbren/Weather-Website) | Completed ✅ |
 | [Music Tags and Lyrics Website](https://github.com/username/project-b) | Completed ✅ |
 
 ## Languages 💻
