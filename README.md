@@ -10,7 +10,7 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 | [Project B](https://github.com/username/project-b) | Completed    |
 | [Project C](https://github.com/username/project-c) | Not Started  |
 
-## Languages ![image](https://github.com/user-attachments/assets/7e568fa0-0568-4379-b63e-2243ded43db7)
+## Languages 💻
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
