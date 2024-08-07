@@ -10,27 +10,30 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 | [Project B](https://github.com/username/project-b) | Completed    |
 | [Project C](https://github.com/username/project-c) | Not Started  |
 
-## Languages 💻
-<div>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/python.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/cplusplus.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/c.svg" alt="C" width="50" height="50" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/html5.svg" alt="HTML" width="50" height="50" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/css3.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/javascript.svg" alt="JavaScript" width="50" height="50" />
-</div>
+## Languages
 
-## Frameworks 🧠
-<div>
-  <img src="https://tech-icons.dev/icons/react.svg" alt="React" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/nodejs.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/vite.svg" alt="Vite" width="50" height="50" />
-</div>
+Here are some of the languages I use:
 
-## Developer Tools ⚙️
-<div>
-  <img src="https://tech-icons.dev/icons/vscode.svg" alt="VS Code" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/github.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/git.svg" alt="Git" width="50" height="50" />
-  <img src="https://tech-icons.dev/icons/figma.svg" alt="Figma" width="50" height="50" />
-</div>
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## Frameworks
+
+Here are some of the frameworks I work with:
+
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+## Developer Tools
+
+Here are some of the tools I use:
+
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
