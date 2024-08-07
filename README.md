@@ -12,9 +12,9 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 ## Languages 💻
 <div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" width="100" height="40" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" width="100" height="40" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" alt="C" width="100" height="40" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="40" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" height="40" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" alt="C" height="40" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" width="100" height="40" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" width="100" height="40" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="100" height="40" />
