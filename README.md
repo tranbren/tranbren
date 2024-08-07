@@ -12,12 +12,12 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 ## Languages 💻
 <div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/python.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/cplusplus.svg" alt="C++" width="50" height="50" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/c.svg" alt="C" width="50" height="50" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/html5.svg" alt="HTML" width="50" height="50" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/css3.svg" alt="CSS" width="50" height="50" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/javascript.svg" alt="JavaScript" width="50" height="50" />
 </div>
 
 ## Frameworks 🧠
