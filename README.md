@@ -29,7 +29,7 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 ## Developer Tools ⚙️
 <div>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="40" alt="VS Code" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="40" />
