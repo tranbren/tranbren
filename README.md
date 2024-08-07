@@ -21,12 +21,16 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 </div>
 
 ## Frameworks 🧠
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" height="40" />
+</div>
 
 ## Developer Tools ⚙️
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="40" />
+</div>
