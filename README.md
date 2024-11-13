@@ -20,6 +20,8 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="35" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="35" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="35" />
+  <img src="https://img.shields.io/badge/-SQL-005C56?logo=database&logoColor=white" height="35" />
+
 </div>
 
 ## Frameworks and Developer Tools 🧠
