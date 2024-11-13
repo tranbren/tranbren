@@ -9,7 +9,8 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 | [Weather App Project (Open Weather API)](https://github.com/tranbren/Weather-Website) | Completed ✅ |
 | [Music Tags and Lyrics Website](https://github.com/tranbren/Music-Tags-Lyrics-Project) | Completed ✅ |
 | [1-Million Song Metadata Dataset]() | In Progress ⏳ |
-| [Research Professor Website](https://web.engr.oregonstate.edu/~motwanim/) | In Progress ⏳ |
+| [Research Professor Website](https://web.engr.oregonstate.edu/~motwanim/) | Completed ✅ |
+| [Evenly - Bill Splitting Application](https://github.com/PiqueDevelopment/bill-splitting) | In Progress ⏳ |
 
 ## Languages 💻
 <div>
