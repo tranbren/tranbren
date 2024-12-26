@@ -6,8 +6,8 @@ Welcome to my GitHub Page! I'm just someone who likes to Code :D
 
 | Project Name        | Status       |
 |---------------------|--------------|
-| [Music Tags Dataset]() | In Progress ⏳ |
 | [Evenly - Bill Splitting Application](https://github.com/PiqueDevelopment/bill-splitting) | In Progress ⏳ |
+| [Music Tags Dataset](https://github.com/tranbren/MusicTagsDataset) | Completed ✅ |
 | [SoundScript - Music Tags and Lyrics Website](https://github.com/tranbren/Music-Tags-Lyrics-Project) | Completed ✅ |
 | [Full Stack Research Website](https://mmotwani.com/) | Completed ✅ |
 | [Weather App Project (Open Weather API)](https://github.com/tranbren/Weather-Website) | Completed ✅ |
